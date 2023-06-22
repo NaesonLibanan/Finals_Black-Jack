@@ -1,0 +1,8 @@
+C:\Users\liban\OneDrive\Documents\Programming Naeson\Prelim_Sem2\LOL\LOL\bin\Debug\LOL.exe.config
+C:\Users\liban\OneDrive\Documents\Programming Naeson\Prelim_Sem2\LOL\LOL\bin\Debug\LOL.exe
+C:\Users\liban\OneDrive\Documents\Programming Naeson\Prelim_Sem2\LOL\LOL\bin\Debug\LOL.pdb
+C:\Users\liban\OneDrive\Documents\Programming Naeson\Prelim_Sem2\LOL\LOL\obj\Debug\LOL.csproj.AssemblyReference.cache
+C:\Users\liban\OneDrive\Documents\Programming Naeson\Prelim_Sem2\LOL\LOL\obj\Debug\LOL.csproj.SuggestedBindingRedirects.cache
+C:\Users\liban\OneDrive\Documents\Programming Naeson\Prelim_Sem2\LOL\LOL\obj\Debug\LOL.csproj.CoreCompileInputs.cache
+C:\Users\liban\OneDrive\Documents\Programming Naeson\Prelim_Sem2\LOL\LOL\obj\Debug\LOL.exe
+C:\Users\liban\OneDrive\Documents\Programming Naeson\Prelim_Sem2\LOL\LOL\obj\Debug\LOL.pdb
