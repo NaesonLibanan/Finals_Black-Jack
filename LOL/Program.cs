@@ -83,7 +83,7 @@ namespace DictionaryDemonstration
 
             {
 
-            }z
+            }
             //shuffle card 
             //giving the card to the player
             //List<int[]> playerHand = new List<int[]>();
